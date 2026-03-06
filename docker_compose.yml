@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 services:
   semantic-search:
     build: .
     ports:
       - "8000:8000"
     volumes:
+=======
+services:
+  semantic-search:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+>>>>>>> fd552f28aad4f45ea86cd8f3991a2913752c2073
       - .:/app

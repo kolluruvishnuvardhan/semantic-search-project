@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fastapi>=0.110.0
 uvicorn>=0.27.1
 sentence-transformers>=2.5.1
@@ -5,4 +6,13 @@ faiss-cpu>=1.9.0
 scikit-learn>=1.4.0
 numpy>=1.26.0
 pandas>=2.2.0
+=======
+fastapi>=0.110.0
+uvicorn>=0.27.1
+sentence-transformers>=2.5.1
+faiss-cpu>=1.9.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pandas>=2.2.0
+>>>>>>> fd552f28aad4f45ea86cd8f3991a2913752c2073
 torch>=2.2.0
